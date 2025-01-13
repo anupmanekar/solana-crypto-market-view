@@ -1,2 +1,1 @@
-# solana-crypto-market-view
-A Next.js application to display Solana crypto market values
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
